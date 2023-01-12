@@ -1,1 +1,1 @@
-"I am file. Now I add some text :) added" 
+"I am file. Now I add some text :) added :)" 
